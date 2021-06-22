@@ -1,0 +1,3 @@
+while true to
+   game.ReplicatedStorage.MainEvent:FireSever(*Stomp*)
+   end
